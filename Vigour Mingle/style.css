@@ -216,7 +216,7 @@ input:hover{
   width: 816vh;
   height: 120vh;
   position: relative;
-  animation: imgslider 8s infinite ease;
+  animation: imgslider 9s infinite ease;
 }
 img.slider{
   width:204vh;
@@ -1273,11 +1273,11 @@ box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
 }
 .title{
   margin-top:3%;
-  margin-left:33%;
+  margin-left:31%;
   padding-top:1%;
   background-color:#26305a;
   color: #ffffff;
-  width:35%;
+  width:38%;
   height:8vh;
   text-align: center;
   font-size:25px;
